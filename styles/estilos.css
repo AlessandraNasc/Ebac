@@ -1,0 +1,15 @@
+p, h1 {
+    color: red;
+}
+
+#name {
+    color: blue;
+}
+
+.button {
+    color: orchid;
+}
+
+a:hover {
+    color: yellow;
+}
